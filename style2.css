@@ -1,0 +1,45 @@
+.nav-bar{
+    border: 1px solid black;
+}
+.nav-heading{
+    text-align: center;
+    background-color: grey;
+    padding: 2px;
+
+}
+
+span{
+    color: red;
+}
+a{
+    padding: 5px;
+    margin: 2px;
+    
+}
+.home{
+    background-color: cyan;
+}
+.about{
+    background-color: cyan;
+}
+.services{
+    background-color: cyan;
+}
+.contact{
+    background-color: cyan;
+}
+.Dashboard{
+    background-color: greenyellow;
+}
+.profile{
+    background-color: greenyellow;
+}
+.messages{
+    background-color: greenyellow;
+}
+.logout{
+    background-color: greenyellow;
+}
+body{
+    text-align: center;
+}
