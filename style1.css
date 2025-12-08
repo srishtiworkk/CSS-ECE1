@@ -1,0 +1,80 @@
+body {
+    background-color: white;
+    border: 2px solid black;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+/*   Name : SRISHTI JAISWAL 
+     Roll No. 2025B03110102
+     Branch : ECE
+     Section : 1  */
+.product-heading {
+    background-color: black;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+    margin: 0.5cm 0.5cm 20px 0.5cm;
+}
+
+.product-card {
+    width: 350px;
+    margin: 0 auto;
+    padding: 25px 20px;
+    border: 1px solid #e0e0e0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: white;
+}
+
+.product-image {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+}
+
+.product-title {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.product-description {
+    font-size: 14px;
+    color: #555;
+    text-align: center;
+    margin-top: 8px;
+}
+
+.product-price {
+    font-size: 18px;
+    color: green;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.old-price {
+    color: #888;
+    text-decoration: line-through;
+    margin-left: 5px;
+}
+
+.add-btn {
+    width: 100%;
+    padding: 10px 0;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    font-size: 16px;
+    margin-top: 15px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.add-btn:hover {
+    background-color: #005fcc;
+}
